@@ -1,0 +1,5 @@
+startar projeto
+
+mongod - inicia o banco
+npm run dev - iniciar servidor
+
